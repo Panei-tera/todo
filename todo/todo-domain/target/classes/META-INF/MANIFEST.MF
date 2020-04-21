@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: todo-domain
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: pe.san
+Implementation-Vendor-Id: com.example.todo
+Build-Jdk: 1.8.0_231
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: TERASOLUNA Framework Team
+
